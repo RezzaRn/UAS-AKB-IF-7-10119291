@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "466864574608",
+    "project_id": "dbcatatan",
+    "storage_bucket": "dbcatatan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466864574608:android:9da6d2713e95fc07370815",
+        "android_client_info": {
+          "package_name": "com.rezzarn.catatan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466864574608-r28hckr6s757tt83e8crjgn5htp2mb39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqoMHdLlBXEkroos-9J11uu9r3HA5U2kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466864574608-r28hckr6s757tt83e8crjgn5htp2mb39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466864574608:android:80e340b0b1dee220370815",
+        "android_client_info": {
+          "package_name": "com.rezzarn.uascatatan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466864574608-r28hckr6s757tt83e8crjgn5htp2mb39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqoMHdLlBXEkroos-9J11uu9r3HA5U2kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466864574608-r28hckr6s757tt83e8crjgn5htp2mb39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

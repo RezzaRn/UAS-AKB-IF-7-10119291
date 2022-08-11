@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.rezzarn.uascatatan">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/notes"
+        android:label="Catatan"
+        android:roundIcon="@drawable/notes"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".TentangAplikasi"
+            android:exported="false" />
+        <activity
+            android:name=".Profile"
+            android:exported="false" />
+        <activity
+            android:name=".Edit"
+            android:exported="false" />
+        <activity
+            android:name=".Detail"
+            android:exported="false" />
+        <activity
+            android:name=".AddNote"
+            android:exported="false" />
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"/>
+    </application>
+
+</manifest>
